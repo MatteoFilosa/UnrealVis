@@ -1,0 +1,3 @@
+UnrealVis/Binaries/Win64/*.exe filter=lfs diff=lfs merge=lfs -text
+UnrealVis/Binaries/Win64/*.pdb filter=lfs diff=lfs merge=lfs -text
+UnrealVis/Content/Paks/*.ucas filter=lfs diff=lfs merge=lfs -text
