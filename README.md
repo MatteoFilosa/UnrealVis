@@ -5,7 +5,9 @@
 <img width="2556" height="1428" alt="teaser_n" src="https://github.com/user-attachments/assets/30430899-26c8-46e6-863c-f82faeb74f57" />
 
 
-The repository for UnrealVis, a diagnostic laboratory and optimization testbed for simulations regarding large 3D datasets, made from scratch in Unreal Engine.
+The repository for UnrealVis, a diagnostic laboratory and optimization testbed for simulations regarding large 3D datasets, made from scratch in Unreal Engine 5.3.
+
+You can see a **demo video** for UnrealVis directly from the root of the repository (the video is named **UnrealVisDemo.mp4**
 
 # Setup
 
